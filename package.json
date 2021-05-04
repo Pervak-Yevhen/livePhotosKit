@@ -1,0 +1,23 @@
+{
+  "name": "livePhotosKit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zhenya-Pervak/livePhotosKit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zhenya-Pervak/livePhotosKit/issues"
+  },
+  "homepage": "https://github.com/Zhenya-Pervak/livePhotosKit#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
